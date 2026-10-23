@@ -5,7 +5,7 @@ em ferramentas simples de usar — de automações e apps desktop a modelos de M
 
 - 🐍 Estudando e construindo projetos com Python, dados e automação
 - 🧪 Procuro entregar projetos testados, documentados e fáceis de rodar
-- 📫 Fale comigo: [mjesusgyn12@gmail.com](mailto:mjesusgyn12@gmail.com)
+- 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/marcos-jesus-01b329183/) · [mjesusgyn12@gmail.com](mailto:mjesusgyn12@gmail.com)
 
 ## 🚀 Projetos em destaque
 
